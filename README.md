@@ -1,7 +1,8 @@
 ## DCOPF
 DC Optimal Power Flow (DCOPF): (i) one lossless DCOPF model and (ii) two lossy DCOPF models.
 
-This set of AMPL codes implements a normal lossless DCOPF model and two lossy DCOPF model. The test case used here is a modified IEEE RTS-96 reliability test system (73-bus) that was initially developed by the IEEE reliability subcommittee and published in 1979 and later enhanced in 1996. These codes can work on any other systems.
+This set of AMPL codes implements a normal lossless DCOPF model and two lossy DCOPF model. The test case used here is a modified IEEE RTS-96 reliability test system (73-bus) that was initially developed by the IEEE reliability subcommittee and published in 1979 and later enhanced in 1996. Reference: "The IEEE Reliability Test System-1996. A report prepared by the Reliability Test System Task Force of the Application of Probability Methods Subcommittee" and link: https://ieeexplore.ieee.org/document/780914.
+Though only tested on this single system here, these codes can work on any other systems.
 
 Model 1 (M1) for lossy DCOPF:
 M1 implemented the model (2)-(14) of the following paper: O. W. Akinbode and K. W. Hedman "Fictitious losses in the DCOPF with a piecewise linear approximation of losses," IEEE PES General Meeting, Jul. 2013.
