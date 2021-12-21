@@ -1,4 +1,6 @@
-# Lossy DCOPF (Piecewise Approximation), developed by Xingpeng.Li
+# Lossy DCOPF (Piecewise Approximation), 
+# developed by Xingpeng.Li 
+#    Website: https://rpglab.github.io/
 # implemented the model (2)-(14) of the following paper: 
 #     O. W. Akinbode and K. W. Hedman "Fictitious losses in the DCOPF with a piecewise linear approximation of losses," 
 #     IEEE PES General Meeting, Jul. 2013.

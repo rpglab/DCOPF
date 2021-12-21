@@ -1,4 +1,6 @@
-# Lossy DCOPF (Iterative Loss Approximation), developed by Xingpeng.Li
+# Lossy DCOPF (Iterative Loss Approximation), 
+# developed by Xingpeng.Li
+#    Website: https://rpglab.github.io/
 # Each iteration: calc total losses and then the change in loss than previous iteration, and 
 #    then assign the losses to all/selected buses with same/different participation factors.
 # This method converges when the difference of total losses between two consecutive iterations is less than a threshold.
